@@ -1,11 +1,11 @@
-## 💡 Project Overview
+##  Project Overview
 
 In this project, I worked on managing appointment data for a healthcare scenario where patients schedule appointments with doctors.
 The core objective was to ensure smooth data handling and enable easy updates, retrieval, and reporting.
 
 ---
 
-## ⚙️ Technologies Used
+##  Technologies Used
 
 - MySQL
 - SQL Queries (CRUD Operations)
@@ -13,7 +13,7 @@ The core objective was to ensure smooth data handling and enable easy updates, r
 
 ---
 
-## 🗂️ Key Steps Performed
+##  Key Steps Performed
 
 1. **Viewed All Patient Appointments**  
    - Retrieved and reviewed the entire appointment data.
